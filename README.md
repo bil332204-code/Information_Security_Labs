@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Student** | Bilal Ahmed |
-| **Class** | BSCS15-D (Semester 3) |
+| **Class** | BS Computer Science — Semester 3 |
 | **Topic** | Classical symmetric block cipher (Playfair) |
 | **Language** | C++ (g++ 13.2) |
 | **Environment** | Windows, VS Code |
@@ -24,7 +24,6 @@ To understand the Playfair cipher and implement encryption and decryption of tex
 |---|---|
 | `task1_playfair_encrypt.cpp` | Task 1: Playfair encryption |
 | `task2_playfair_decrypt.cpp` | Task 2: Playfair decryption |
-| `BilalAhmed_573512_InformationSecurity_Lab03.docx` | Full lab report |
 
 ## How Playfair Works
 
