@@ -1,0 +1,14 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# Lab report exports / local documents
+*.docx
+*.pdf
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
